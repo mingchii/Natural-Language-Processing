@@ -1,4 +1,4 @@
-# twiiter sentiment analysis
+# Twitter sentiment analysis
 
 In this project, I attempt to use a Naive Bayes Classifier to extract sentiment analysis from tweets captured on twitter on Oct. 27th of 2019 for the keyword "Baghdadi". The tweets are from the day after the United States President Donald Trump confirms death of ISIS leader Abu Bakr al-Baghdadi. 
 
